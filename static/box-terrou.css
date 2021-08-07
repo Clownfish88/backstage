@@ -1,0 +1,13 @@
+.box-terrou{
+    background-color: rgb(240, 238, 238);
+    padding: 0 10px 10px;
+  }
+  .box-title{
+    height: 40px;
+    line-height: 40px;
+  }
+  .box-title-zhu{
+    display: inline;
+    font-size: 16px;
+    font-weight: normal;
+  }

@@ -1,6 +1,6 @@
 <template>
     <div>
-        商品管理页面
+        商品管理页面修改二次
         <!-- saerch -->
         <div>
             <Search/>
